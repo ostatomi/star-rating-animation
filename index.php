@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Star Rating Animation</title>
-  <link rel='stylesheet' href='https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css'>
+  
    <link rel='stylesheet' href='./font-awesome.min.css'>
 <link rel="stylesheet" href="./style.css">
 </head>
@@ -70,7 +70,7 @@
   <span class="text">Your average score is</span><div class=" score-average js-average"></div>
 </div>
 <!-- partial -->
-  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src='./jquery.min.3.2.js'></script>
 <script  src="./script.js"></script>
 
 </body>
